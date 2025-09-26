@@ -8,13 +8,13 @@
   "compatibility": {
     "minimum": 11,
     "verified": 11,
-    "maximum": 12
+    "maximum": 13
   },
   "authors": [
     {
-      "name": "Kaleth",
+      "name": "Jentastic",
       "url": "",
-      "discord": "DMKal"
+      "discord": "jentastic"
     }
   ],
   "esmodules": [],
@@ -34,3 +34,4 @@
   "url": "https://github.com/tirzah2/dropboxer",
   "readme": "https://github.com/tirzah2/dropboxer/README.md"
 }
+

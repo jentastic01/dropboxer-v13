@@ -4,7 +4,7 @@
   "description": "Integrate dropbox into foundry for the creation of scenes and tiles and sounds.",
   "version": "1.2.1",
   "manifest": "https://raw.githubusercontent.com/jentastic01/dropboxer-v13/refs/heads/main/module.json",
-  "download": "",
+  "download": "https://github.com/jentastic01/dropboxer-v13.git",
   "compatibility": {
     "minimum": 11,
     "verified": 11,
@@ -34,6 +34,7 @@
   "url": "https://github.com/tirzah2/dropboxer",
   "readme": "https://github.com/tirzah2/dropboxer/README.md"
 }
+
 
 
 
